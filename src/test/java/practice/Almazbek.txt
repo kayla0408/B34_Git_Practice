@@ -1,2 +1,2 @@
-New adding
-BWV, Volvo, Mercedes
+New car brand
+Pegueot,BWV, Volvo, Mercedes, Tofas, Kartal
