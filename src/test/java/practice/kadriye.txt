@@ -1,0 +1,2 @@
+color:
+red, white, black, blue
