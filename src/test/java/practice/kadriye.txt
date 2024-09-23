@@ -1,6 +1,3 @@
 color:
-red, white, Grey, black, blue
-
-Brown
-hy
-hello
+dog, rabbit
+red, white, black, blue
