@@ -1,2 +1,2 @@
 color:
-red, white, black, yelloy, pink, violet
+red, white, black, yellow, pink, violet
