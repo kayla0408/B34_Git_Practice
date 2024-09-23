@@ -1,6 +1,2 @@
 color:
-red, white, Grey, black, blue
-
-Brown
-hy
-hello
+red, white, black, yellow, pink, violet
