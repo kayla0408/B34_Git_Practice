@@ -1,2 +1,2 @@
 color:
-red, white, black
+red, white, black, blue
